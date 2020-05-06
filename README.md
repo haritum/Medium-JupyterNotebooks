@@ -1,4 +1,4 @@
 # Medium-JupyterNotebooks
 JupyterNotebooks used for Medium Posts
-- [x] Folium-in-Five.ipynb
+- [x] Folium-in-Five.py
 
